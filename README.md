@@ -1,6 +1,6 @@
 # Pizza-Sales-Analysis With SQL
 
-
+![Pizza 2](https://github.com/ashishwankhade0011/Pizza-Sales-Analysis/assets/160989632/8cb24131-bd47-400b-98b0-1f9b88e1abe1)
 
 Welcome to the Pizza Sales Report project, where we leverage SQL for data analysis and Power BI for creating interactive visualizations. 
 This project provides in-depth insights into pizza sales data, including daily and monthly trends, sales by pizza category and size,
