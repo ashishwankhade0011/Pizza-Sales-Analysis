@@ -43,5 +43,9 @@ Top-Selling Pizzas: Identification of top-selling pizzas based on various metric
 
 Least-Selling Pizzas: Identification of least-selling pizzas based on various metrics.
 
+![dash1](https://github.com/ashishwankhade0011/Pizza-Sales-Analysis/assets/160989632/a0c85cea-075a-4680-a3f2-adbbb97d9d35)
+
+
+
 
 
