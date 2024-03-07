@@ -45,6 +45,8 @@ Least-Selling Pizzas: Identification of least-selling pizzas based on various me
 
 ![dash1](https://github.com/ashishwankhade0011/Pizza-Sales-Analysis/assets/160989632/a0c85cea-075a-4680-a3f2-adbbb97d9d35)
 
+![dash2](https://github.com/ashishwankhade0011/Pizza-Sales-Analysis/assets/160989632/4b11faac-8b7d-454f-8256-d017fe3e3f6b)
+
 
 
 
