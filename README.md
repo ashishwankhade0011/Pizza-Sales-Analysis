@@ -48,6 +48,13 @@ Least-Selling Pizzas: Identification of least-selling pizzas based on various me
 ![dash2](https://github.com/ashishwankhade0011/Pizza-Sales-Analysis/assets/160989632/4b11faac-8b7d-454f-8256-d017fe3e3f6b)
 
 
+# Key Insights
+1.The busiest days are Fridays and Saturdays 
+2.Our overall best selling pizza is The Thai Chicken 
+3.July is the top performing month with a total of 1985 orders 
+4.The highest sold pizza size is the Large Size 
+5.The pizza category which is most in demand is the Classic with 14888 orders
+
 
 
 
